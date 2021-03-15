@@ -1,2 +1,2 @@
-# world_flags
+# World Flags
 Simple game made with JavaScript
